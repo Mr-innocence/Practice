@@ -1,0 +1,12 @@
+		<select name = "background" id = "background" onchange="changeBackground(this)">
+			<option value = "red">Red</option>
+			<option value = "yellow">Yellow</option>
+			<option value = "blue">Blue</option>
+		</select>
+		<script>
+			function changeBackground(x){
+				body = document.getElementById("body");
+				body.style.backgroundColor = x.value;
+			}
+
+		</script>

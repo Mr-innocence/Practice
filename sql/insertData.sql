@@ -1,0 +1,1 @@
+INSERT into userInfo(userPw, userName, email) VALUES("123456", )

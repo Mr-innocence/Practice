@@ -1,1 +1,1 @@
-INSERT into userInfo(userPw, userName, email) VALUES("123456", )
+INSERT into userInfo(userPw, userName, email) VALUES("123456", "innocence", "bellali1019@gmail.com" )
